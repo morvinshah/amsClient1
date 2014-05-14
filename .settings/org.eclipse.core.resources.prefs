@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/beans/Employee.java=UTF-8
+encoding//src/beans/Flightdetails.java=UTF-8
+encoding//src/beans/Journey.java=UTF-8
+encoding//src/beans/Person.java=UTF-8
+encoding//src/beans/SearchEmployee.java=UTF-8
+encoding//src/beans/SearchTraveller.java=UTF-8
+encoding//src/beans/Traveller.java=UTF-8
+encoding//src/services/AMS.java=UTF-8
+encoding//src/services/AMSService.java=UTF-8
+encoding//src/services/AMSServiceLocator.java=UTF-8
+encoding//src/services/AMSSoapBindingStub.java=UTF-8
